@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #
 # Sudoku Solver
+# This is my version of a sudoku solver inspired by Computerphile's video
 
 
 def is_possible(grid, x, y, n):
